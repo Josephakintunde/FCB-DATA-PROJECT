@@ -26,3 +26,11 @@ WHERE CONDITION= MET
 |Heading 1|Heading 2|Heading 3|
 |----------|----------|----------|
 |Data 1|Data 2|Data 3|
+
+```
+Google Query Sheet
+SELECT * FROM TABLE 1
+WHERE CONDITION= MET
+
+```
+![](NA2.png)
