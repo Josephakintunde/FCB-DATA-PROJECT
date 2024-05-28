@@ -8,5 +8,5 @@ The primary source of data used for this project is Data sales.csy which is an o
 
 ## Tools Used
 
-- Ms Excel for data cleaning [download here](www.microsoft.com)
-- Microsoft Power Bi [download here](www.powerbi.microsoft.com)
+- Ms Excel for data cleaning [download here](http://microsoft.com)
+- Microsoft Power Bi [download here](http://powerbi.microsoft.com)
