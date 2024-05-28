@@ -17,6 +17,7 @@ The primary source of data used for this project is Data sales.csy which is an o
 
 ```
 Google Query Sheet
+SELECT * FROM TABLE 1
 WHERE CONDITION= MET
 
 ```
