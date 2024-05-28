@@ -21,4 +21,8 @@ SELECT * FROM TABLE 1
 WHERE CONDITION= MET
 
 ```
-![](LPM%203.jpg).
+![](LPM%203.jpg)
+
+|Heading 1|Heading 2|Heading 3|
+|----------|----------|----------|
+|Data 1|Data 2|Data 3|
