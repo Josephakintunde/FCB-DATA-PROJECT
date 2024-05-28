@@ -21,4 +21,4 @@ SELECT * FROM TABLE 1
 WHERE CONDITION= MET
 
 ```
-![](
+![](LPM%203.jpg).
