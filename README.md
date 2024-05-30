@@ -6,7 +6,7 @@ This project aims to analyses the performance of all the students in Data Analys
 ---
 
 ## Data Sources
-The primary source of data used for this project is Data sales.csy which is an open source data that can be feely downloaded from an open source online such as kaggle _[here](www.kaggle.com)_ or FRED _[here](www.fred.stlouisfed.org)_ or any other data reposiroty sites
+The primary source of data used for this project is Data sales.csv which is an open source data that can be feely downloaded from an open source online such as kaggle _[here](www.kaggle.com)_ or FRED _[here](www.fred.stlouisfed.org)_ or any other data reposiroty sites
 ---
 
 ## Tools Used
